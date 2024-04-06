@@ -41,3 +41,5 @@ if (pinAnswer.pin === pinNumber) {
 else {
     console.log("Again try ! You have enter wrong pin number");
 }
+// agar mainy 1000 nikal diyay hain to next time mujhy 9000 dikhain 
+// dosra yeh kay jab yeh option aay kay ap ko kitnay paisy withdraw karny hain or 
